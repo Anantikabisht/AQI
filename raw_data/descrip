@@ -1,0 +1,4 @@
+It contains data in the form of csv file.
+ 1. city_day: It contains data regarding pollutants as per the city on daily basis.
+ 2. staton_day: It contains data regarding pollutants as per the station name,station Id on daily basis.
+ 3. stations: It consists of station Id and their active status.
