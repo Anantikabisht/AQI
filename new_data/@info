@@ -1,0 +1,4 @@
+It contains data in refined form after making certain changes:
+ 1. ciy: It contains city data after cleaning the older city data.
+ 2. new_station: It consists of station data after merging both data.
+ 
